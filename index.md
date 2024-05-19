@@ -11,3 +11,6 @@ $ git add .
 git commit -m 'message'
 git push
 ```
+- [x] open index.md
+- [x] write task list
+- [ ] commit chnages
